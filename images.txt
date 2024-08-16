@@ -7,4 +7,5 @@
 #platform=linux/arm64 xiaoyaliu/alist
 
 python:alpine3.19
+v2ray/official
 
